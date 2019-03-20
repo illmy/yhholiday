@@ -1,0 +1,22 @@
+{
+    "name": "illmy/yhholiday",
+    "description": "the date is holiday?",
+    "require": {
+        "php": ">=5.6.0",
+        "guzzlehttp/guzzle": "~6.0",
+        "phpunit/phpunit": "~4.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "illmy",
+            "email": "335111164@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "illmy\\Yhholiday\\": "src/"
+        }
+    }
+}
